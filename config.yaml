@@ -1,2 +1,4 @@
 files_directory: "input"
-compress_summary: 10  # оставить 25% от исходного объёма материала
+compress_summary: 10  # оставить 10% от исходного объёма материала
+ocr_model: "google/gemini-2.0-flash-001"
+summary_model: "deepseek/deepseek-chat"
